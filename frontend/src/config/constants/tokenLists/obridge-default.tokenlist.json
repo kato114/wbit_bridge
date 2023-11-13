@@ -1,0 +1,42 @@
+{
+  "name": "Obridge Default List",
+  "timestamp": "2022-11-01T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://app.obridge.finance/logo.png",
+  "keywords": ["obridge", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped VBIT",
+      "symbol": "WVBIT",
+      "address": "0x9Bf843B1BA38edd1D737D0728f1B999E984Fa3fc",
+      "chainId": 2535,
+      "decimals": 18
+    },
+    {
+      "name": "Wrapped VBIT",
+      "symbol": "WVBIT",
+      "address": "0xe2517a5f54EB3c72E4475c0bc1506419391a4a1C",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Wrapped VBIT",
+      "symbol": "WVBIT",
+      "address": "0xC457d0A09995CDd60B18eDc5e7905ef3263f1591",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "name": "Wrapped VBIT",
+      "symbol": "WVBIT",
+      "address": "0xC457d0A09995CDd60B18eDc5e7905ef3263f1591",
+      "chainId": 137,
+      "decimals": 18
+    }
+  ]
+}

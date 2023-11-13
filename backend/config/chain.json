@@ -1,0 +1,38 @@
+{
+  "56": {
+    "chainId": "56",
+    "name": "Binance Smart Chain",
+    "rpcUrl": "https://1rpc.io/bnb",
+    "scanUrl": "https://bscscan.com/",
+    "wssUrl": "",
+    "blockPeriod": "3000",
+    "routerAddress": "0x882fE583d5182342cb59c16b7c49ca5287713F53"
+  },
+  "43114": {
+    "chainId": "43114",
+    "name": "Avalanche Network",
+    "rpcUrl": "https://avalanche-evm.publicnode.com",
+    "scanUrl": "https://snowtrace.io/",
+    "wssUrl": "",
+    "blockPeriod": "3000",
+    "routerAddress": "0xFE3dE0f4967eb20A7cDfB279fC01e64f3f9533A9"
+  },
+  "137": {
+    "chainId": "137",
+    "name": "Polygon Mainnet",
+    "rpcUrl": "https://endpoints.omniatech.io/v1/matic/mainnet/public",
+    "scanUrl": "https://polygonscan.com/",
+    "wssUrl": "",
+    "blockPeriod": "3000",
+    "routerAddress": "0xBd9f217b09FF51C4c73a32e6cC11486930A4723d"
+  },
+  "2535": {
+    "chainId": "2535",
+    "name": "Valobit Mainnet",
+    "rpcUrl": "https://rpc.mnet.vblockchain.io",
+    "scanUrl": "https://valobitscan.io",
+    "wssUrl": "",
+    "blockPeriod": "3000",
+    "routerAddress": "0xEADD49d4e29df99dB37B10C4005F3EEEa515D182"
+  }
+}
