@@ -4,9 +4,8 @@ import { PageMeta } from './types'
 
 export const DEFAULT_META: PageMeta = {
   title: 'VBridge',
-  description:
-    'Cross-Chain Router Protocol. The Ultimate Router for Web3.0',
-  image: 'https://obridge.finance/wp-content/uploads/2022/10/gif2.gif',
+  description: 'Cross-Chain Router Protocol. The Ultimate Router for Web3.0',
+  image: 'http://wvbit.vbitbridges.com/wp-content/uploads/2022/10/gif2.gif',
 }
 
 interface PathList {

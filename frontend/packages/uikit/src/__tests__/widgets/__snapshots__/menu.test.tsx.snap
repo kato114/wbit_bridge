@@ -1905,7 +1905,7 @@ exports[`renders correctly 1`] = `
           >
             <a
               class="c27"
-              href="https://obridge.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82&chainId=56"
+              href="http://wvbit.vbitbridges.com/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82&chainId=56"
               target="_blank"
             >
               <svg
@@ -3172,7 +3172,7 @@ exports[`renders correctly 1`] = `
                 >
                   <a
                     class="c27"
-                    href="https://obridge.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82&chainId=56"
+                    href="http://wvbit.vbitbridges.com/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82&chainId=56"
                     target="_blank"
                   >
                     <svg
@@ -3237,7 +3237,7 @@ exports[`renders correctly 1`] = `
                 <a
                   class="c92"
                   data-theme="light"
-                  href="https://obridge.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82&chainId=56"
+                  href="http://wvbit.vbitbridges.com/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82&chainId=56"
                   scale="sm"
                   target="_blank"
                 >

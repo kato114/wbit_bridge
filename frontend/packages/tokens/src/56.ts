@@ -207,7 +207,7 @@ export const bscTokens = {
     18,
     'SYRUP',
     'SyrupBar Token',
-    'https://obridge.finance/',
+    'http://wvbit.vbitbridges.com/',
   ),
   pha: new Token(
     ChainId.BSC,
